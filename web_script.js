@@ -34,6 +34,7 @@ function doGet(e) { //--> Function Script ในการเพิ่มค่�
   Linenoti2(); //--> ส่งค่าไปที่ Line notify
   return ContentService.createTextOutput(result);
 }
+
 function stripQuotes(value) {
   return value.replace(/^["']|['"]$/g, "");
 }
