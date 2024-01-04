@@ -8,3 +8,13 @@
 Engineered a laser target shooting game using Arduino as a microcontroller. Leveraged skills in C programming to create an interactive gaming experience. Implemented Google Apps Script to automate scorekeeping and Line notification API for real-time updates.
 
 
+
+## Component
+• UNO R3 WiFi ATmega328P + ESP8266
+• Servo Motor
+• LDR
+• LED
+• Laser Pointer
+
+
+
